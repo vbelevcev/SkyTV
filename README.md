@@ -16,7 +16,7 @@ http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/Sky.Mediateka.m3u8
 ```
 <br>Ну и информация по репозиториям, что у меня здесь
 
-> ### 👉IPTVSHARED👈По моим наблюдениям автор IPTVSHARED обновляет этот репизиторий здесь👉https://github.com/IPTVSHARED/VeronaTV👈
+> ### 👉IPTVSHARED👈По моим наблюдениям автор IPTVSHARED обновляет этот репизиторий здесь👉 https://github.com/IPTVSHARED/VeronaTV 👈
 ```PY 
 http://github.com/IPTVSHARED/VeronaTV/raw/refs/heads/main/VeronaTV.m3u
  ```
