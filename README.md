@@ -5,7 +5,7 @@
 ```PY 
 http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/UzbaTVFull.m3u8
 ```
-> ### Отечественная и зарубежная мультипликация 😈👉 https://mults.info/ 👈😈
+> ### Отечественная и зарубежная мультипликация 🦊🧸👉 https://mults.info/ 👈🧸🦊
 ```PY 
 http://github.com/SkyK0T/SkyTV/raw/refs/heads/main/Mults.info.m3u8
 ```
